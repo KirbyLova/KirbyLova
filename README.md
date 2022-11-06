@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KirbyLova
-- 👀 I’m interested in ... Scratch, Art, Animation
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate with ... SonicKirb
-- 📫 How to reach me ... you dont
+-  Hi, I’m @KirbyLova
+-  I’m interested in ... Scratch, Art, Animation
+-  I’m currently learning ... Python
+-  I’m looking to collaborate with ... SonicKirb
 
 <!---
 KirbyLova/KirbyLova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
