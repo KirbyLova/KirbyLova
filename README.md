@@ -1,6 +1,6 @@
 -  Hi, I’m @KirbyLova
 -  I’m interested in ... Scratch, Art, Animation
--  I’m currently learning ... Python
+-  I’m currently learning ... nothing
 -  I’m looking to collaborate with ... SonicKirb
 
 <!---
